@@ -1,1 +1,2 @@
-"Hello world, the Earth says hello!"
+"Hello world, the Earth says shmello!"
+"I like eggs"
